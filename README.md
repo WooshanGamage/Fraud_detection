@@ -1,5 +1,8 @@
 # Fraud_detection
 This project uses logistic regression to detect fraudulent credit card transactions with a dataset from Kaggle. It preprocesses and balances the data, scales features, and evaluates model accuracy. The code effectively predicts fraud in credit card transactions.
+
+**Download the data set**: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
+
 ## Libraries Imported
 
 - **pandas**: For data manipulation and analysis.
